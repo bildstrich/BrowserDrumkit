@@ -1,0 +1,1 @@
+window.addEventListener("keydown",function(e){var o=e.keyCode,t=document.getElementsByTagName("audio");console.log(t);var n=t.getAttribute("data-key");console.log(n)});
